@@ -253,3 +253,104 @@ git show 78909323973427bd276fbc01c3805ae63817418b --stat
 git status --stat
 git status -show --stat
 yes
+ll
+git branch
+git branch flm
+git checkout flm
+ll
+git branch -d fm
+git branch -d flm
+git branch checkout master
+git branch -d flm
+git branch
+git checkout master
+git branch -d flm
+git branch
+git commit "commit all" *
+git commit "commit all" ..
+git commit "commit all" .
+git commit -m "commit all" *
+git status
+git checkout master
+git commit -m "commit all" .
+git status
+git checkout master
+git branch -d flm
+git branch -D flm
+git branch
+git checkout tree
+ll
+git branch -d tree
+git branch -d master
+git branch
+git branch -d checkout
+git branch
+git branch -D tree
+git branch -n master
+git checkout -b master
+git branch
+git branch -m tr
+git branch
+git branch -m master
+git branch
+git branch -d tree
+git branch
+ll
+rm -rf *
+ll
+sudo -i
+git branch
+sudo -i
+git branch
+sudo -i
+git branch
+ll
+ls
+ll -a
+ll .git config
+ll .gitconfig
+cat .gitconfig
+vim .gitconfig
+sudo -i
+git remote =v
+git remote -v
+git -v
+git remote -v
+git branch
+sudo -i
+ll -a
+cd .ssh
+ll
+ll authorized_keys
+cat authorized_keys
+cd 
+ll
+l -a
+ll -a
+cd -
+cd ..
+sudo -i
+ssh-keygen
+cd .ssh
+ll
+cat id_rsa.pub
+ll
+cd
+ll
+touch c1
+git init
+git add .
+vim c1
+git branch
+git commit -m "master in ec2-user" c1
+git push origin master
+git remote -v
+git status
+git push origin git@github.com:Charan2627/Git-repo.git
+git push git@github.com:Charan2627/Git-repo.git
+git remote add orgin git@github.com:Charan2627/Git-repo.git
+git push origin c1
+git push orgin c1
+git push origin master
+git remote -v
+git push origin master
